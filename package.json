@@ -1,0 +1,12 @@
+{
+  "name": "vueemailform",
+  "version": "1.0.0",
+  "description": "Create an email form component in Vue",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd vue-email-form && npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
